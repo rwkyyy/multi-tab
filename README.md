@@ -1,3 +1,5 @@
+[![WP compatibility](https://plugintests.com/plugins/wporg/multi-tab/wp-badge.svg)](https://plugintests.com/plugins/wporg/multi-tab/latest)
+[![PHP compatibility](https://plugintests.com/plugins/wporg/multi-tab/php-badge.svg)](https://plugintests.com/plugins/wporg/multi-tab/latest)
 # Multi Tab
 Creates a button in the WordPress admin that allows you to open multiple (check-marked) posts / pages / products(WooCommerce) at once.
 
